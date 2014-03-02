@@ -1,0 +1,14 @@
+{
+    "name": "b4n92uid/fakedb",
+    "description": "Fake database generator",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Beldjouhri Abdelghani",
+            "email": "b4n92uid@live.fr"
+        }
+    ],
+    "require": {
+        "nategood/commando": "*"
+    }
+}

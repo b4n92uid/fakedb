@@ -20,13 +20,13 @@ it has many interesting features like download file by url, filter data, range g
 
 # Usage example
 
-Generate 10 product<br>
+Generate 10 product
 `php fakedb.php product.xml -c 10`
 
-Preview the generation of 10 product in the console<br>
+Preview the generation of 10 product in the console
 `php fakedb.php product.xml -c 10 -p`
 
-Define a variable to use in descriptor file<br>
+Define a variable to use in descriptor file
 `php fakedb.php product.xml -d key=value`
 
 # File descriptor (xml file)
